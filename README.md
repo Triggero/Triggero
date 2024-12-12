@@ -1,12 +1,15 @@
 <p align="center">
+  
   <br/>
+  <br/>
+  👋<b>Oi</b>
   <br/>
   <img width="200" src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif">
   <img width="200" src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif">
   
   <br/>
   <br/>
-  👋<b>Oi</b>
+  
   <samp>
   
   <br/>
